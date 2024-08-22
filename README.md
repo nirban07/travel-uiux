@@ -55,7 +55,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone
+git clone https://github.com/nirban07/travel-uiux.git
 cd travel_ui_ux
 ```
 
